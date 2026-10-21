@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/508ef9ac-a6c5-4a6d-827c-e3053a225d7c" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers[...]
+  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/508ef9ac-a6c5-4a6d-827c-e3053a225d7c" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers and Designers" />
 </p>
 
 
@@ -58,9 +58,9 @@ Enjoy :)
 
 | No | Extension | Description |
 | | ------ | ------------------------------------------------------ |---------------------|
-| 1 | [**Liquify - Shopify Code Search & Editor**](https://chrome.google.com/webstore/detail/liquify-shopify-code-sear/edekihmjmpkkkaolmojnajojfgphccma?utm_content=Best&Chrome&Extension)  | Liquify is a Shopify code search and editor extension designed to make ... |
+| 1 | [**Liquify - Shopify Code Search & Editor**](https://chrome.google.com/webstore/detail/liquify-shopify-code-sear/edekihmjmpkkkaolmojnajojfgphccma?utm_content=Best&Chrome&Extension)  | Liquify is a Shopify code search and editor extension designed to make development faster. |
 | 2 | [**Text Editor**](https://chrome.google.com/webstore/detail/text-editor/demheclfdlemkkpadenmajhjbdhbjjml?utm_content=Best&Chrome&Extension)   | A free, highly customizable text and code editing tool for your browser. |
-| 3 | [**XML Editor**](https://chrome.google.com/webstore/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin)      | Edit your file XML directly on your Chrome browser with advanced search and replace tools. |
+| 3 | [**XML Editor**](https://chrome.google.com/webstore/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin)      | Edit XML directly in Chrome with advanced search and replace tools. |
 | 4 | [**Markdown Editor for Chrome**](https://chrome.google.com/webstore/detail/markdown-editor-for-chrom/dkpldbigkfcgpamifjimiejipmodkigk?hl=en) | Introducing a powerful and easy-to-use Markdown editor in Chrome. |
 | 5 | [**CloudBoard - Online Code Editor and Compiler**](https://chromewebstore.google.com/detail/kcghbbipihbbcjclnlmljpniibannhad) | A powerful Chrome extension allows you to easily edit and test code snippets. |
 
@@ -76,10 +76,10 @@ Enjoy :)
 | No | Extension | Description  |
 | | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Mobile simulator - responsive testing tool**](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) | A smartphone and tablet simulator on a browser. |
-| 2 | [**Responsive Viewer**](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension will help you to show multiple screens in one view and to allow front-end debugging. |
-| 3 | [**Clear Cache**](https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) | Clear your cache and browsing data with a single click of a button. |
-| 4 | [**Dimensions**](https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) | Measure distances between elements on a website like images, input fields, buttons, and text. |
-| 5 | [**Meta Pixel Helper**](https://chromewebstore.google.com/detail/meta-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc) | A troubleshooting tool that helps you validate your pixel implementation. |
+| 2 | [**Responsive Viewer**](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension helps you show multiple screens in one view and debug front-end layouts. |
+| 3 | [**Clear Cache**](https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) | Clear your cache and browsing data with a single click. |
+| 4 | [**Dimensions**](https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) | Measure distances between elements on a webpage. |
+| 5 | [**Meta Pixel Helper**](https://chromewebstore.google.com/detail/meta-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc) | A troubleshooting tool that helps validate your pixel implementation. |
 | 6 | [**Ghost Inspector - Web Test Recorder**](https://chromewebstore.google.com/detail/ghost-inspector-web-test/aicdiabnghjnejfempeinmnphllefehc) | An automated browser testing service to run tests in the cloud. |
 | 7 | [**Bug Magnet**](https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) | Exploratory testing assistant for Chrome. |
 | 8 | [**Exploratory Testing Chrome Extension**](https://chromewebstore.google.com/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj) | Chrome extension designed to make web exploration and bug discovery easier. |
@@ -159,7 +159,7 @@ Enjoy :)
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate browser tasks. |
-| 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and documentation for users. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
@@ -213,7 +213,7 @@ Enjoy :)
 | 5    | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for eyedropper and color picking. |
 | 6    | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp)                                  | Creates a colour palette from any image. |
 | 7    | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei)                        | The Amazing Color Picker app helps you select colors easily. |
-| 8    | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)                                            | ColorZilla is the most user-friendly color pick tool for developers. |
+| 8    | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)                                            | ColorZilla is the most user-friendly color-pick tool for developers. |
 | 9    | [**Extract Colors DevTool**](https://chromewebstore.google.com/detail/extract-colors-devtool/nfliekkcalinkhldnlpjgfigimdngchm)                     | Extract Colors DevTool offers color extraction from design elements. |
 | 10    | [**Palette & Hues 🎨**](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep)                     | Palettes & Hues is a useful extension for exploring color schemes. |
 
@@ -287,14 +287,14 @@ Enjoy :)
 | 1 | [**Grammarly: Grammar Checker and AI Writing App**](https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Improve your writing with all-in-one grammar and style suggestions. |
 | 2 | [**Magical: AI Writer & Autofill Text Expander**](https://chromewebstore.google.com/detail/magical-ai-writer-autofil/iibninhmiggehlcdolcilmhacighjamp) | Magical’s free AI writer, text expander, and autofill assistant. |
 | 3 | [**QuillBot: AI Writing and Grammar Checker Tool**](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) | Elevate your writing with QuillBot’s grammar and paraphrasing tools. |
-| 4 | [**GMPlus - Open AI ChatGPT for Email**](https://chromewebstore.google.com/detail/gmplus-open-ai-chatgpt-fo/abekedpmkgndeflcidpkkddapnjnocjp) | An AI-powered email assistant for email drafting and productivity. |
+| 4 | [**GMPlus - Open AI ChatGPT for Email**](https://chromewebstore.google.com/detail/gmplus-open-ai-chatgpt-fo/abekedpmkgndeflcidpkkddapnjnocjp) | An AI-powered email assistant for drafting and productivity. |
 | 5 | **[TextCortex: Personal AI Assistant & AI Writer](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe)** | An AI companion designed to help you write and research more efficiently. |
-| 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done with reusable snippets. |
+| 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions and reusable snippets. |
 | 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails and writing tasks with snippets and shortcuts. |
 | 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI and autocomplete your writing. |
 | 9 | [**HyperWrite - AI Assistant**](https://chromewebstore.google.com/detail/hyperwrite-ai-assistant/kljjoeapehcmaphfcjkmbhkinoaopdnd) | An AI-powered assistant for web browsing, content creation, and writing. |
 | 10 | [**AISEO - AI Writing Companion.**](https://chromewebstore.google.com/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily with AI tools. |
-| 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI productivity platform for rewriting and polishing writing. |
+| 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a generative AI productivity platform for rewriting and polishing writing. |
 | 12 | [**Typing Made Fun: Improving typing speed and accuracy**](https://chromewebstore.google.com/detail/typing-made-fun/oabhfhfapkhbaidkcpncflcglimcfcpb?hl=en) | Track your typing performance and improve speed and accuracy. |
 
 <div align="right">
@@ -311,8 +311,8 @@ Enjoy :)
 | 2 | [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) | Browse and download images from the web. |
 | 3 | [**Image Finder - Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader-image-fi/jfafkhnopckjfmnpekbmpmghhdlijaja) | Find images on web pages, sort them by resolution, and download quickly. |
 | 4 | [**INLoad - App Client for Instagram**](https://chrome.google.com/webstore/detail/inload-app-client-for-ins/ikcgnmhndofpnljaijlpjjbbpiamehan?) | Download photos, videos, stories, and Reels from Instagram. |
-| 5 | [**Video Downloader**](https://chrome.google.com/webstore/detail/video-downloader/lpcbiamenoghegpghidohnfegcepamdm?) | Best video downloader extension, can download videos and music safely. |
-| 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader that can save media quickly and easily. |
+| 5 | [**Video Downloader**](https://chrome.google.com/webstore/detail/video-downloader/lpcbiamenoghegpghidohnfegcepamdm?) | Best video downloader extension to save media quickly and safely. |
+| 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader for saving media and clips. |
 | 7 | [**Utaku Downloader**](https://chrome.google.com/webstore/detail/utaku-image-downloader-%EC%9D%B4%EB%AF%B8/gdkbclbkmeggbekkkddcfjbcaapojihk?) | Free image and video downloader that extracts media from the page. |
 | 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any website. |
 
@@ -325,15 +325,15 @@ Enjoy :)
 ### 🚫 Ad-Blockers
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
-| 1 | [**AdGuard AdBlocker**](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Effectively blocks all types of ads on all web pages, including Facebook and YouTube. |
+| 1 | [**AdGuard AdBlocker**](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Effectively blocks all types of ads, including on social platforms. |
 | 2 | [**AdLock: Adblocker & Privacy Protection**](https://chrome.google.com/webstore/detail/adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh?hl=en) | Blocks ads on favorite websites and enhances privacy. |
-| 3 | [**AdBlocker Ultimate**](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) | Free extension that blocks text, banner ads, Facebook ads, and other intrusive content. |
+| 3 | [**AdBlocker Ultimate**](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) | Free extension that blocks text, banner ads, Facebook ads, and more. |
 | 4 | [**AdBlock Plus**](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Open-source ad blocker that blocks banners, video, and pop-up ads. |
-| 5 | [**AdBlocker Stands**](https://chrome.google.com/webstore/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh?hl=en) | Removes banners, pop-ups, and more, enhancing your browsing experience. |
-| 6 | [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Efficient open-source blocker for Chromium and Firefox. Fast and lightweight. |
-| 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Open-source crowdsourced browser extension and API that skips sponsor segments on YouTube. |
-| 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | User-supported open-source Chrome browser extension for ad blocking. |
-| 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | A powerful privacy Chrome extension. Blocks ads and trackers. |
+| 5 | [**AdBlocker Stands**](https://chrome.google.com/webstore/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh?hl=en) | Removes banners, pop-ups, and more to improve browsing. |
+| 6 | [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Efficient, open-source blocker for Chromium and Firefox. |
+| 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Skip sponsor segments on YouTube with a crowdsourced extension. |
+| 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | A user-supported open-source Chrome browser extension for ad blocking. |
+| 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | A powerful privacy Chrome extension that blocks ads and trackers. |
 
 <div align="right">
 
@@ -346,18 +346,18 @@ Enjoy :)
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**LINER: ChatGPT AI Copilot for Web&YouTube&PDF**](https://chromewebstore.google.com/detail/liner-chatgpt-ai-copilot/bmhcbmnbenmcecpmpepghooflbehcack?hl=en) | Use ChatGPT directly on websites, YouTube, and PDFs. |
-| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers questions and helps with research. |
-| 3 | [**MaxAI.me: Use ChatGPT AI Anywhere Online**](https://chromewebstore.google.com/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi?hl=en) | Fastest way to use ChatGPT, Claude, and other AI tools anywhere online. |
+| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4 that answers questions and helps with research. |
+| 3 | [**MaxAI.me: Use ChatGPT AI Anywhere Online**](https://chromewebstore.google.com/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi?hl=en) | Fastest way to use ChatGPT and other AI tools anywhere online. |
 | 4 | [**SciSpace: Do hours of research in minutes**](https://chrome.google.com/webstore/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick?hl=en) | SciSpace provides research-backed summaries and insight generation. |
 | 5 | [**SearchGPT for Chrome**](https://chrome.google.com/webstore/detail/searchgpt-for-chrome/ninecedhhpccjifamhafbdelibdjibgd?hl=en) | Display ChatGPT AI responses within search engines like Google and Bing. |
-| 6 | [**Merlin: 1-click access to Powerful AI Plugins**](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?hl=en) | Merlin AI helps you summarize, research, write, and automate tasks. |
+| 6 | [**Merlin: 1-click access to Powerful AI Plugins**](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?hl=en) | Merlin AI helps summarize, research, write, and automate tasks. |
 | 7 | [**Jarvis AI: Chat GPT, Bing, Claude, Bard, BOT**](https://chrome.google.com/webstore/detail/jarvis-ai-chat-gpt-bing-c/kbhaffhbhcfmogkkbfanilniagcefnhi?hl=en) | Jarvis AI Copilot Chatbot powered by multiple AI models. |
 | 8 | [**ChatSider: Free ChatGPT Sidebar&AI Copilot**](https://chrome.google.com/webstore/detail/chatsiderfree-chatgpt-sid/ecnknpjoomhilbhjipoipllgdgaldhll?hl=en) | Free ChatGPT sidebar and AI copilot for quick access while browsing. |
 | 9 | [**HARPA AI - Automation Agent with Claude & GPT**](https://chrome.google.com/webstore/detail/harpa-ai-automation-agent/eanggfilgoajaocelnaflolkadkeghjp?hl=en) | HARPA is your private AI companion for automation and task execution. |
 | 10 | [**Mano - Your AI Copilot powered by GPT-4**](https://chrome.google.com/webstore/detail/mano-your-ai-copilot-powe/icgjkfebljaiiccoeeihocdmjnojmeal?hl=en) | Mano brings powerful AI tools directly to your browser. |
 | 11 | [**ChatGPT for Amazon with GPT4 Shulex Copilot**](https://chrome.google.com/webstore/detail/chatgpt-for-amazon-with-g/fchbhcjlkcdchcaklpkdofllfoimelgb?hl=en) | Copilot for ecommerce and seller workflows with AI assistance. |
 | 12 | [**ChatsNow：ChatGPT, Claude SideBar(GPT- 4,Draw)**](https://chrome.google.com/webstore/detail/chatsnow%EF%BC%9Achatgpt-claude-s/hcmiiaachajoiijecmakkhlcpagafklj?hl=en) | AI assistant utility with sidebar, chat, and drawing support. |
-| 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen + Fullscreen modes to chatgpt.com for a better experience. |
+| 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen and Fullscreen modes to chatgpt.com. |
 | 14 | [**onUI**](https://chromewebstore.google.com/detail/onui/logpkalmdihdklbbcnhoanfddlcnbgmh) | Open-source browser extension for annotation-first UI pair programming with AI agents. |
 | 15 | [**Simple Sticky Notes**](https://chromewebstore.google.com/detail/lkkkngnoflaeicokibjcmgjacmhlnghg) | Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes. |
 
@@ -371,8 +371,8 @@ Enjoy :)
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**SEO SERP Counter - Free SERP Checker tool**](https://chromewebstore.google.com/detail/seo-serp-counter-free-ser/bogkphfdgobbdiapedfgjmdibojjnppa) | Free SERP checker + counter tool to compare ranking and keyword performance. |
-| 2 | [**FindNiche - Shopify™ store traffic analysis**](https://chromewebstore.google.com/detail/findniche-shopify-store-t/kiniklbpicchjlhhagjhchoabjffogni) | A Shopify store traffic analysis Chrome extension for marketing research. |
-| 3 | [**Website Keyword Extractor & Planner Tool**](https://chromewebstore.google.com/detail/website-keyword-extractor/eiddpicgliccgcgclfoddoiebfaippkj) | Free website keywords tool to check search intent and keyword opportunities. |
+| 2 | [**FindNiche - Shopify™ store traffic analysis**](https://chromewebstore.google.com/detail/findniche-shopify-store-t/kiniklbpicchjlhhagjhchoabjffogni) | A Shopify store traffic analysis extension for marketing research. |
+| 3 | [**Website Keyword Extractor & Planner Tool**](https://chromewebstore.google.com/detail/website-keyword-extractor/eiddpicgliccgcgclfoddoiebfaippkj) | Free website keyword tool to check search intent and keyword opportunities. |
 | 4 | [**SEO Analysis & Website Review by WooRank**](https://chromewebstore.google.com/detail/seo-analysis-website-revi/hlngmmdolgbdnnimbmblfhhndibdipaf) | SEO Analysis and Website Review by WooRank for auditing page performance. |
 | 5 | [**Ahrefs SEO Toolbar: On-Page and SERP Tools**](https://chromewebstore.google.com/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | The Ahrefs SEO Toolbar is a versatile on-page and SERP analysis toolkit. |
 | 6 | [**Website SEO Checker: Free Audit & Analysis**](https://chromewebstore.google.com/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk) | Get a free on-page SEO report with technical insights and recommendations. |
